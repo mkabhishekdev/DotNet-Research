@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\Experimental_Applications\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {}
+    "C:\\Research\\DevResearch\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\Experimental_Applications\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {
+    "C:\\Research\\DevResearch\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\Experimental_Applications\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+        "projectUniqueName": "C:\\Research\\DevResearch\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "projectName": "ToDoAPI",
-        "projectPath": "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\Experimental_Applications\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+        "projectPath": "C:\\Research\\DevResearch\\MAUI\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "packagesPath": "C:\\Users\\abhi.kempanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\Experimental_Applications\\MAUI\\ToDoAPI\\ToDoAPI\\obj\\",
+        "outputPath": "C:\\Research\\DevResearch\\MAUI\\ToDoAPI\\ToDoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,7 +27,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.hangfire.io/nuget/hangfire-ace": {},
           "https://nuget.hangfire.io/nuget/hangfire-pro": {},
@@ -50,15 +49,37 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.10, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -80,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
