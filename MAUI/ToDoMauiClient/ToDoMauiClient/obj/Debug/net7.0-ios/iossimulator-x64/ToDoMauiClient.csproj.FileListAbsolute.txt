@@ -202,13 +202,10 @@ C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
-C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger.dylib
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
-C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
-C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
@@ -217,6 +214,7 @@ C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
 C:\Research\DevResearch\MAUI\ToDoMauiClient\ToDoMauiClient\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
