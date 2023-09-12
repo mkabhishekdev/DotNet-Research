@@ -63,6 +63,6 @@ public partial class ManageToDoPage : ContentPage
 			Debug.WriteLine("--> Update an item");
 			await _dataService.UpdateToDoAsync(ToDo);
 		}
-		await Shell.Current.GoToAsync("..");
+		await Shell.Current.GoToAsync("..");  //navigation part
 	}
 }

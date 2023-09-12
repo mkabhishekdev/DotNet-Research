@@ -17,10 +17,13 @@ namespace ToDoMauiClient.DataServices
 		private string _url;
 		private readonly JsonSerializerOptions _jsonSerializerOptions;
 
-		public RestDataService()
+		public RestDataService(HttpClient httpClient)
         {
-	        _httpClient = new HttpClient();
-			_baseAddress = DeviceInfo.Platform == DevicePlatform.Android ? "http://10.0.2.2:5209" : "https://localhost:7209";
+			//   _httpClient = new HttpClient();  use httpclient factory: because client factory manages connection threads etc. you do not end up in connection exhaustion
+			_httpClient = httpClient;
+
+			//The below base address needs to be set to the port in which your ToDoAPI project is running
+			_baseAddress = DeviceInfo.Platform == DevicePlatform.Android ? "http://10.0.2.2:5209" : "https://localhost:7280";
 			_url = $"{_baseAddress}/api";
 
 			_jsonSerializerOptions = new JsonSerializerOptions
@@ -68,7 +71,7 @@ namespace ToDoMauiClient.DataServices
 			}
 			try
 			{
-				HttpResponseMessage response = await _httpClient.DeleteAsync($"{_url}/todo{id}");
+				HttpResponseMessage response = await _httpClient.DeleteAsync($"{_url}/todo/{id}");
 
 				if (response.IsSuccessStatusCode)
 				{

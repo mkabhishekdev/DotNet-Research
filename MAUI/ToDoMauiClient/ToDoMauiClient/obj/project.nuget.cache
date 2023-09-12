@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Tnsc5rqLpqEZ8djUj6XVS6J1H4JuTtmIhLSPmuNW4nyoc0saF30iLoDTX69MwVDoywIQU0XMdQRfJr0MmzkS5Q==",
+  "dgSpecHash": "ICdULspf/A2DTO9WT2OlZ6eI4B/P4SZeSmEtJTx/BqBJkoH6peeESzA6A9dlaTa6IwCkbv2kXzW8cu10kv/7JQ==",
   "success": true,
   "projectFilePath": "C:\\Research\\DevResearch\\MAUI\\ToDoMauiClient\\ToDoMauiClient\\ToDoMauiClient.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\abhi.kempanna\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\abhi.kempanna\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\abhi.kempanna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\abhi.kempanna\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
     "C:\\Users\\abhi.kempanna\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\abhi.kempanna\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\abhi.kempanna\\.nuget\\packages\\microsoft.extensions.logging.debug\\7.0.0\\microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",

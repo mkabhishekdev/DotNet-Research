@@ -18,7 +18,10 @@ namespace ToDoMauiClient
 				});
 
 			//dependency injection of the created service
-			builder.Services.AddSingleton<IRestDataService, RestDataService>();
+			//	builder.Services.AddSingleton<IRestDataService, RestDataService>();
+
+			builder.Services.AddHttpClient<IRestDataService, RestDataService>();
+
 			builder.Services.AddSingleton<MainPage>();
 
 			builder.Services.AddTransient<ManageToDoPage>();
