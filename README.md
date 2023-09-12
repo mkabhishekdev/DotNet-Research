@@ -2,7 +2,7 @@
 work on challenging ideas &amp; projects
 
 1. MAUI
-- created conceptual app demonstrating MAUI concepts
+- created conceptual app demonstrating MAUI concepts, used code first approach using EF core to setup mssql database
   1. Main Abhi To Do page in MAUI
   ![image](https://github.com/coderkemp/DevResearch/assets/32283903/dc637de8-7325-45b3-8115-25af7ef0239a)
 
