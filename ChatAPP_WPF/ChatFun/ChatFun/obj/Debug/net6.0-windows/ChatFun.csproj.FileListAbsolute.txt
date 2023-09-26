@@ -19,3 +19,7 @@ C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\ref
 C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\ChatFun.pdb
 C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\ChatFun.genruntimeconfig.cache
 C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\ref\ChatFun.dll
+C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\Themes\ContactCard.baml
+C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\App.baml
+C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\Themes\ChatItem.baml
+C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\obj\Debug\net6.0-windows\Themes\MessageBox.baml

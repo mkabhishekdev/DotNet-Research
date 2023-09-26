@@ -8,11 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MVVM\Model\" />
     <Folder Include="MVVM\View\" />
-    <Folder Include="Themes\" />
     <Folder Include="Icons\" />
-    <Folder Include="Core\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
   </ItemGroup>
 
 </Project>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Research\DevResearch\ChatAPP_WPF\ChatFun\ChatFun\App.xaml
-11407045341
+4351067607
 
-61550546488
+101057265367
 194726069201
-MainWindow.xaml;
+MainWindow.xaml;Themes\ChatItem.xaml;Themes\ContactCard.xaml;Themes\MessageBox.xaml;
 
-True
+False
 
