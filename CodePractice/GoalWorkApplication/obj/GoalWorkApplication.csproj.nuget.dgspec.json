@@ -1,37 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\CodePractice\\GoalWorkApplication\\GoalWorkApplication.csproj": {}
+    "/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/GoalWorkApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\CodePractice\\GoalWorkApplication\\GoalWorkApplication.csproj": {
+    "/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/GoalWorkApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\CodePractice\\GoalWorkApplication\\GoalWorkApplication.csproj",
+        "projectUniqueName": "/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/GoalWorkApplication.csproj",
         "projectName": "GoalWorkApplication",
-        "projectPath": "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\CodePractice\\GoalWorkApplication\\GoalWorkApplication.csproj",
-        "packagesPath": "C:\\Users\\abhi.kempanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhi.kempanna\\OneDrive - Tyler Technologies, Inc\\Desktop\\RESEARCH_Lab\\CodePractice\\GoalWorkApplication\\obj\\",
+        "projectPath": "/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/GoalWorkApplication.csproj",
+        "packagesPath": "/Users/AbhiKemp/.nuget/packages/",
+        "outputPath": "/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\abhi.kempanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/AbhiKemp/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.hangfire.io/nuget/hangfire-ace": {},
-          "https://nuget.hangfire.io/nuget/hangfire-pro": {},
-          "https://tylertech.jfrog.io/artifactory/api/nuget/v3/lgd-nuget-local": {},
-          "https://tylertech.jfrog.io/artifactory/api/nuget/v3/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -64,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

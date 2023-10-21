@@ -1,15 +1,29 @@
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\bin\Debug\net7.0\GoalWorkApplication.exe
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\bin\Debug\net7.0\GoalWorkApplication.deps.json
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\bin\Debug\net7.0\GoalWorkApplication.runtimeconfig.json
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\bin\Debug\net7.0\GoalWorkApplication.dll
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\bin\Debug\net7.0\GoalWorkApplication.pdb
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.csproj.AssemblyReference.cache
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.AssemblyInfoInputs.cache
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.AssemblyInfo.cs
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.csproj.CoreCompileInputs.cache
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.dll
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\refint\GoalWorkApplication.dll
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.pdb
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\GoalWorkApplication.genruntimeconfig.cache
-C:\Users\abhi.kempanna\OneDrive - Tyler Technologies, Inc\Desktop\RESEARCH_Lab\CodePractice\GoalWorkApplication\obj\Debug\net7.0\ref\GoalWorkApplication.dll
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.exe
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.deps.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.runtimeconfig.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.dll
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.pdb
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.csproj.AssemblyReference.cache
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.AssemblyInfoInputs.cache
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.AssemblyInfo.cs
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.csproj.CoreCompileInputs.cache
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.dll
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/refint/GoalWorkApplication.dll
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.pdb
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.genruntimeconfig.cache
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/RESEARCH_Lab/CodePractice/GoalWorkApplication/obj/Debug/net7.0/ref/GoalWorkApplication.dll
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.pdb
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.deps.json
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.runtimeconfig.json
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.dll
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/bin/Debug/net7.0/GoalWorkApplication.pdb
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.AssemblyInfoInputs.cache
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.AssemblyInfo.cs
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.csproj.CoreCompileInputs.cache
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.dll
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/refint/GoalWorkApplication.dll
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/GoalWorkApplication.genruntimeconfig.cache
+/Users/AbhiKemp/Desktop/workspace/DevResearch/CodePractice/GoalWorkApplication/obj/Debug/net7.0/ref/GoalWorkApplication.dll
