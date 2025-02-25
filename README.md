@@ -1,3 +1,3 @@
 # DevResearch
-work on challenging ideas &amp; projects
+work on computer science core concepts
 
