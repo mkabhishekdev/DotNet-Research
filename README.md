@@ -1,3 +1,3 @@
 # DevResearch
-work on computer science core concepts & projects
+work on .NET related core concepts & latest features
 
